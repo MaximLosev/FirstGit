@@ -1,3 +1,3 @@
 # Readme
 
-Learning to program
+Learning Git
