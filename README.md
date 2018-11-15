@@ -1,3 +1,3 @@
 # FirstGit
 
-test1
+git status - определение состояния файлов
