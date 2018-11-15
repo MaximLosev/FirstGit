@@ -1,3 +1,3 @@
-# FirstGit
+# Readme
 
-git status - определение состояния файлов
+Learning to program
